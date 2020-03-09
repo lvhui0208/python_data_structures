@@ -93,3 +93,33 @@ def binarySearch(alist,item):
 
 testList = [0,1,2,8,13,17,19,32,42]
 print(binarySearch(testList,13))
+
+
+# n/2   n/4   n/8 ....   n/2^i   O(logn)
+'''
+Hash查找
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
